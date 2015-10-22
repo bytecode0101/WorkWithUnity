@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitySample2", "UnitySample
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UWar", "UWar\UWar.csproj", "{10501621-F303-4498-ACFB-1665A5ADB053}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperAttacks", "SuperAttacks\SuperAttacks.csproj", "{CCD105CC-1E39-489A-A660-81DD98C0F08E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{10501621-F303-4498-ACFB-1665A5ADB053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10501621-F303-4498-ACFB-1665A5ADB053}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10501621-F303-4498-ACFB-1665A5ADB053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD105CC-1E39-489A-A660-81DD98C0F08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD105CC-1E39-489A-A660-81DD98C0F08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD105CC-1E39-489A-A660-81DD98C0F08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD105CC-1E39-489A-A660-81DD98C0F08E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,11 +4,13 @@ namespace UWar
 {
     public interface IAttackStrategy
     {
+        int HitPoints { get; set; }
         void Attack();
     }
 
     public class SwordAttakStrategy : IAttackStrategy
     {
+        public int HitPoints { get; set; }
         public void Attack()
         {
             Console.WriteLine("Sword attak");
@@ -17,6 +19,7 @@ namespace UWar
 
     public class BowAttakStrategy : IAttackStrategy
     {
+        public int HitPoints { get; set; }
         public void Attack()
         {
             Console.WriteLine("Bow attak");
